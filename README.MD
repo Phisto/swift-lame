@@ -3,10 +3,8 @@
 [![License](https://img.shields.io/github/license/phisto/swift-lame.svg)](https://github.com/Phisto/swift-lame)
                 
 # swift-lame
-                
-## Overview
 
-This is a mirror of the [LAME](https://lame.sourceforge.io) 3.100 source modified to make it available as a library via [Swift Package Manager](https://www.swift.org/package-manager/).
+This is a mirror of the [LAME](https://lame.sourceforge.io) 3.100.0 source modified to make it available as a library via [Swift Package Manager](https://www.swift.org/package-manager/).
 
 ## Requirements
                            
