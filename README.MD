@@ -2,7 +2,7 @@
 [![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-Green?style=flat-square)
 [![License](https://img.shields.io/github/license/phisto/swift-lame.svg)](https://github.com/Phisto/swift-lame)
                 
-#swift-lame
+# swift-lame
                 
 ## Overview
 
