@@ -1,6 +1,6 @@
-[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)
-[![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-Green?style=flat-square)
-[![License](https://img.shields.io/github/license/phisto/swift-lame.svg)](https://github.com/Phisto/swift-lame)
+[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-green?style=flat)](https://img.shields.io/badge/Swift_Package_Manager-compatible-green?style=flat)
+[![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-green?style=flat)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-Green?style=flat)
+[![License](https://img.shields.io/github/license/phisto/swift-lame.svg?style=flat)](https://github.com/Phisto/swift-lame)
                 
 # swift-lame
 
