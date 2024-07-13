@@ -8,7 +8,7 @@ This is a mirror of the [LAME](https://lame.sourceforge.io) 3.100.0 source modif
 
 ## Requirements
                            
-- XCode 15.0+
+- XCode 15.4+
 - swift-tools-version: 5.9+
 
 LAME library     | macOS  |  iOS   |  tvOS
