@@ -8,17 +8,12 @@ This is a mirror of the [LAME](https://lame.sourceforge.io) 3.100.0 source modif
 
 ## Requirements
                            
-- XCode 15.4+
-- swift-tools-version: 5.9+
+- XCode 16.3+
+- swift-tools-version: 6.1+
 
 LAME library     | macOS  |  iOS   |  tvOS
 -----------------|--------|--------|--------
 3.100.0          | 10.13+ |  12.0+ |  12.0+
-
-## TO-DO
-                               
-- Implement test target
-- Write a short usage guide
                                
 ## Installation
 
@@ -38,9 +33,6 @@ dependencies: [
 
 I really dont know a source for how to use the LAME framework, but you can check out my [CoreAudioConverter](https://github.com/Phisto/CoreAudioConverter) project to see how i use it.
 
-
 ## License
 
-LAME is released under the [GNU Lesser General Public License (LGPL)](https://www.gnu.org/licenses/).
-
-
+LAME is released under the [**GNU Lesser General Public License v3.0**](./LICENSE).
